@@ -7,9 +7,9 @@ This is a version of the DSP filter designed for use in an external amplified sp
 This version uses a TFT display and a rotary encoder so the operator can change the filter properties.
 
 ### Usage
-Rotation - change selected filter setting (displayed in RED on the TFT)
-Short press - toggle between CenterPoint, high, low filter adjustments
-Long Press - load pre-defined filter
+- Rotation - change selected filter setting (displayed in RED on the TFT)
+- Short press - toggle between CenterPoint, high, low filter adjustments
+- Long Press - load pre-defined filter
 
 ### Hardware required:
 - A "green tab 128x128 65K SPI TFT LCD" from eBay. The size is up to you but it needs to use a ST7735 driver IC. In theory the library supports "red" and "black" tab versions but I have not tried them.
