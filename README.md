@@ -17,3 +17,7 @@ Connections
 ![](https://github.com/gi1mic/DSP-Speaker-Filter/blob/master/images/display.jpg)
 
 ![](https://github.com/gi1mic/DSP-Speaker-Filter/blob/master/images/encoder.jpg)
+
+![](https://github.com/gi1mic/DSP-Speaker-Filter/blob/master/images/connections1.jpg)
+
+![](https://github.com/gi1mic/DSP-Speaker-Filter/blob/master/images/connections2.jpg)
