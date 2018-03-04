@@ -2,9 +2,9 @@
 Teensy DSP audio filter for external speakers
 
 
-This is a version of the DSP filter designed for use in an external amplified speaker. Please visit https://gi1mic.github.io/ for information on how to setup your development environment and general information that may be helpful in this project.
+This is a simplified version of the DSP filter designed for use in an external amplified speaker. Please visit https://gi1mic.github.io/ for information on how to setup your development environment and general information that may be helpful in this project.
 
-This version uses a TFT display and a rotary encoder so the operator can change the filter properties.
+This version uses a TFT display and a rotary encoder so the operator can change filter properties.
 
 ### Usage
 - Encoder Rotation - change selected filter setting (displayed in RED on the TFT)
