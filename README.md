@@ -23,6 +23,8 @@ This version uses a TFT display and a rotary encoder so the operator can change 
 Note I am using the Teensy audio shield to simplify audio in/out for this but the code does support using the AD & DAC to reduce costs. I have not tested it but should work fine. Please see the original project linked above for the audio connections should you go down this route.
 
 ### Connections
+The connections for the display and encoder can be changed via "settings.h" but if you plan to use the teensy audio adaptor you should stick to the ones provided to avoid conflicts. 
+
 ![](https://github.com/gi1mic/DSP-Speaker-Filter/blob/master/images/display.jpg)
 
 ![](https://github.com/gi1mic/DSP-Speaker-Filter/blob/master/images/encoder.jpg)
