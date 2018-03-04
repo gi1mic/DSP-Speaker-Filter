@@ -20,7 +20,7 @@ This version uses a TFT display and a rotary encoder so the operator can change 
 
 - Optional ["Audio Adaptor Board for Teensy"](https://www.pjrc.com/store/teensy3_audio.html)
 
-Note I am using the Teensy audio shield to simplify audio in/out but the code does supports using the AD & DAC to reduce costs. I have not tested it but should work fine. Please see the original project linked above for the audio connections should you go down this route. The audio shield has some advantages over the AD/DAC as it has a much larger input/output range (P-P adjustable in the code) plus a built-in headphone amplifier.
+I am using the Teensy audio shield to simplify audio in/out but settings.h supports using the AD & DAC to reduce costs. This has not been tested it but should work fine. Please see the original project linked above for the audio connections if you want to go down this route. The audio shield has advantages over the AD/DAC in it allows a much larger input/output range with expected the P-P values being adjusted in code plus a built-in headphone amplifier.
 
 ### Connections
 The connections for the display and encoder can be changed via "settings.h" but if you plan to use the teensy audio adaptor you should stick to the ones provided to avoid conflicts. 
