@@ -14,7 +14,7 @@ This version uses a TFT display and a rotary encoder so the operator can change 
 ### Hardware required:
 - A ["green tab 128x128 65K SPI TFT LCD"](https://www.ebay.co.uk/itm/1-44-128x128-65K-SPI-Full-Color-TFT-LCD-Display-Module-replace-OLED-for-Arduino/253219135818?epid=931476969&hash=item3af509614a:g:Rj8AAOSw0kNXg0qF) from eBay. The size is up to you but it needs to use a ST7735 driver IC. In theory the library supports "red" and "black" tab versions but I have not tried them.
 
-- A PCB ["rotary encoder arduino"](https://www.ebay.co.uk/itm/Rotary-Encoder-Module-KY-040-Brick-Sensor-Clickable-Switch-Arduino-ARM-Pic-UK/231884393106?hash=item35fd630a92:g:9jQAAOSw2ENW7v67) also from eBay. This provides both rotary control and a push button. The one in my position has a simple PCB which includes two pull-up resistors but you could just as easily use a bare encoder.
+- A PCB ["rotary encoder arduino"](https://www.ebay.co.uk/itm/Rotary-Encoder-Module-KY-040-Brick-Sensor-Clickable-Switch-Arduino-ARM-Pic-UK/231884393106?hash=item35fd630a92:g:9jQAAOSw2ENW7v67) also from eBay. This provides both rotary control and a push button. Mine has a simple PCB which includes two pull-up resistors but you could just as easily use a bare encoder.
 
 - A ["Teensy 3.2"](https://www.pjrc.com/store/teensy32.html)
 
