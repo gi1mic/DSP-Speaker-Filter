@@ -7,9 +7,9 @@ This is a simplified version of the DSP filter designed for use in an external a
 This version uses a TFT display and a rotary encoder so the operator can change filter properties.
 
 ### Usage
-- Encoder Rotation - change selected filter setting (displayed in RED on the TFT)
-- Encoder Short press - toggle between CenterPoint, high, low filter adjustments
-- Encoder Long Press - load pre-defined filter
+- Encoder Short press - toggle between CenterPoint, high and low filter adjustments (displayed in RED on the TFT)
+- Encoder Rotation - adjust the selected filter setting
+- Encoder Long Press - load a pre-defined filter
 
 ### Hardware required:
 - A ["green tab 128x128 65K SPI TFT LCD"](https://www.ebay.co.uk/itm/1-44-128x128-65K-SPI-Full-Color-TFT-LCD-Display-Module-replace-OLED-for-Arduino/253219135818?epid=931476969&hash=item3af509614a:g:Rj8AAOSw0kNXg0qF) from eBay. The size is up to you but it needs to use a ST7735 driver IC. In theory the library supports "red" and "black" tab versions but I have not tried them.
