@@ -15,3 +15,5 @@ Note I am using the Teensy audio shield to simplify audio in/out for this but th
 
 Connections
 ![](https://github.com/gi1mic/DSP-Speaker-Filter/blob/master/images/display.jpg)
+
+![](https://github.com/gi1mic/DSP-Speaker-Filter/blob/master/images/encoder.jpg)
